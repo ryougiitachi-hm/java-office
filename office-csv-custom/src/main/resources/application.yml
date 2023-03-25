@@ -1,0 +1,8 @@
+server:
+  port: 8081
+
+infra:
+  office:
+    csv:
+      csvcustom:
+        charset: UTF-8
